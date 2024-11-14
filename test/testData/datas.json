@@ -1,0 +1,8 @@
+{
+    "productNameList": ["Samsung galaxy s6", "Nokia lumia 1520", "Nexus 6", "Samsung galaxy s7", "Iphone 6 32gb", "Sony xperia z5", "HTC One M9", "Sony vaio i5", "Sony vaio i7"],
+    "priceList": ["$360", "$820", "$650", "$800", "$800", "$790", "$320", "$320", "$790", "$790"],
+    "usrnme": "loginusername",
+    "pswd":"loginpassword",
+    "user": "158",
+    "pass": "12345@"
+}

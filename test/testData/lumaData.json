@@ -1,0 +1,71 @@
+{
+    "invalid_email":"aleena123gmail.com",
+
+    "password_list": ["abc", "aaaabbbb","abcd@123", "Abcd@123" ],
+    
+    "firstName": "firstname",
+    "lastName": "lastname",
+    "email":"email",
+    "password": "password",
+    "confirmPassword": "password_confirmation",
+
+    "first_name": "Alina",
+    "last_name":"Shaji",
+    "password_":"Aleena$12345",
+    "confirm_password":"Aleena$12345",
+
+    "email_sigin":"login[username]",
+    "password_sigin":"login[password]",
+
+    "categoryWomen": "Women",
+    "top":"level1 nav-2-1",
+    "jacket":"nav-2-1-1",
+
+    "categoryMen": "Men",
+    "bottom":"level1 nav-3-2",
+    "pant":"nav-3-2-1",
+    "topMen":"level1 nav-3-1",
+    "jacketMen":"nav-3-1-1",
+
+    "categoryGear": "Gear",
+    "bag":"level1 nav-4-1",
+
+    "filterOptions": ["Style", "Size", "Climate", "Color", "Eco Collection", "Erin Recommends", "Material", "New", "Pattern", "Performance Fabric", "Price", "Sale"],
+    "filterOptionsListStyle": ["Jacket","Lightweight","Rain Coat","Full Zip"],
+    "filterOptionsSize":["XS","S","XL"],
+    "filterOptionsClimate":["All-Weather","Cool","Mild","Spring"],
+    "filterOptionsColor":["Blue", "Green", "Orange", "Purple"],
+    "filterOptionsMaterial":["Cotton", "Nylon", "Polyester", "Wool"],
+    "filterOptionsPattern":["Color-Blocked", "Solid"],
+    "filterOptionsList":["24", "26","40","43","46","50"],
+    "yesOrNoOptions":["Yes","No"],
+    "indexNumbers":["1","2","3","4","6","9","11","12","5"],
+
+    "sortingOptions":["Product Name", "Price", "Position"],
+    "nameOfProducts":["Olivia 1/4 Zip Light Jacket","Juno Jacket", "Neve Studio Dance Jacket", "Nadia Elements Shell", "Jade Yoga Jacket",
+"Adrienne Trek Jacket", "Inez Full Zip Jacket", "Riona Full Zip Jacket", "Ingrid Running Jacket", "Augusta Pullover Jacket", "Josie Yoga Jacket","Stellar Solar Jacket"],
+    "viewModes":["mode-list","mode-grid"],
+
+    "sizes": ["XS","S","M","L","XL"],
+    "colors":["Black", "Blue", "Purple","Gray"],
+    "quantities":[2,3,4,5],
+
+    "address": "test",
+    "city":"newspaper",
+    "zip":"65434",
+    "phone":"9876543210",
+    "states":["region_id","country_id"],
+    "stateAndCountry":["Hawaii","Finland"],
+
+    "_first_name": "Example",
+    "_last_name":"Test",
+    "_password_":"Random@123",
+    "_confirm_password":"Random@123",
+
+    "new_number":8765432901,
+    "new_address":"Example Cottage",
+    "new_city":"New city",
+    "new_zip":"65987"
+
+
+}
